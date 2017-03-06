@@ -55,7 +55,7 @@
   font-size: 16px;
 }
 
-.form-signup .form-control:focus {
+.form-signup .form-control {
   z-index: 2;
 }
 
